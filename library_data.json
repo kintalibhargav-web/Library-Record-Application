@@ -1,0 +1,349 @@
+{
+  "version": 1,
+  "books": [
+    {
+      "id": "B0001",
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "category": "Fantasy",
+      "total_copies": 4,
+      "available_copies": 3
+    },
+    {
+      "id": "B0002",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "category": "Fiction",
+      "total_copies": 2,
+      "available_copies": 1
+    },
+    {
+      "id": "B0003",
+      "title": "1984",
+      "author": "George Orwell",
+      "category": "Fiction",
+      "total_copies": 2,
+      "available_copies": 1
+    },
+    {
+      "id": "B0004",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "category": "Fiction",
+      "total_copies": 4,
+      "available_copies": 3
+    },
+    {
+      "id": "B0005",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "category": "Fiction",
+      "total_copies": 2,
+      "available_copies": 2
+    },
+    {
+      "id": "B0006",
+      "title": "A Brief History of Time",
+      "author": "Stephen Hawking",
+      "category": "Science",
+      "total_copies": 2,
+      "available_copies": 2
+    },
+    {
+      "id": "B0007",
+      "title": "The Selfish Gene",
+      "author": "Richard Dawkins",
+      "category": "Science",
+      "total_copies": 4,
+      "available_copies": 4
+    },
+    {
+      "id": "B0008",
+      "title": "Cosmos",
+      "author": "Carl Sagan",
+      "category": "Science",
+      "total_copies": 2,
+      "available_copies": 2
+    },
+    {
+      "id": "B0009",
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "category": "Technology",
+      "total_copies": 2,
+      "available_copies": 2
+    },
+    {
+      "id": "B0010",
+      "title": "The Pragmatic Programmer",
+      "author": "David Thomas",
+      "category": "Technology",
+      "total_copies": 4,
+      "available_copies": 4
+    },
+    {
+      "id": "B0011",
+      "title": "Introduction to Algorithms",
+      "author": "Thomas H. Cormen",
+      "category": "Technology",
+      "total_copies": 2,
+      "available_copies": 2
+    },
+    {
+      "id": "B0012",
+      "title": "Python Crash Course",
+      "author": "Eric Matthes",
+      "category": "Technology",
+      "total_copies": 2,
+      "available_copies": 2
+    },
+    {
+      "id": "B0013",
+      "title": "The Design of Everyday Things",
+      "author": "Don Norman",
+      "category": "Design",
+      "total_copies": 4,
+      "available_copies": 4
+    },
+    {
+      "id": "B0014",
+      "title": "Sapiens",
+      "author": "Yuval Noah Harari",
+      "category": "History",
+      "total_copies": 2,
+      "available_copies": 2
+    },
+    {
+      "id": "B0015",
+      "title": "Guns, Germs, and Steel",
+      "author": "Jared Diamond",
+      "category": "History",
+      "total_copies": 2,
+      "available_copies": 2
+    },
+    {
+      "id": "B0016",
+      "title": "The Diary of a Young Girl",
+      "author": "Anne Frank",
+      "category": "History",
+      "total_copies": 4,
+      "available_copies": 4
+    },
+    {
+      "id": "B0017",
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "category": "Fiction",
+      "total_copies": 2,
+      "available_copies": 2
+    },
+    {
+      "id": "B0018",
+      "title": "The Book Thief",
+      "author": "Markus Zusak",
+      "category": "Fiction",
+      "total_copies": 2,
+      "available_copies": 2
+    },
+    {
+      "id": "B0019",
+      "title": "Little Women",
+      "author": "Louisa May Alcott",
+      "category": "Fiction",
+      "total_copies": 4,
+      "available_copies": 4
+    },
+    {
+      "id": "B0020",
+      "title": "The Odyssey",
+      "author": "Homer",
+      "category": "Classics",
+      "total_copies": 2,
+      "available_copies": 2
+    },
+    {
+      "id": "B0021",
+      "title": "Meditations",
+      "author": "Marcus Aurelius",
+      "category": "Philosophy",
+      "total_copies": 2,
+      "available_copies": 2
+    },
+    {
+      "id": "B0022",
+      "title": "The Republic",
+      "author": "Plato",
+      "category": "Philosophy",
+      "total_copies": 4,
+      "available_copies": 4
+    },
+    {
+      "id": "B0023",
+      "title": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "category": "Psychology",
+      "total_copies": 2,
+      "available_copies": 2
+    },
+    {
+      "id": "B0024",
+      "title": "Man's Search for Meaning",
+      "author": "Viktor E. Frankl",
+      "category": "Psychology",
+      "total_copies": 2,
+      "available_copies": 2
+    },
+    {
+      "id": "B0025",
+      "title": "The Art of War",
+      "author": "Sun Tzu",
+      "category": "Philosophy",
+      "total_copies": 4,
+      "available_copies": 4
+    },
+    {
+      "id": "B0026",
+      "title": "The Elements of Style",
+      "author": "William Strunk Jr.",
+      "category": "Writing",
+      "total_copies": 2,
+      "available_copies": 2
+    },
+    {
+      "id": "B0027",
+      "title": "On Writing",
+      "author": "Stephen King",
+      "category": "Writing",
+      "total_copies": 2,
+      "available_copies": 2
+    },
+    {
+      "id": "B0028",
+      "title": "The Body Keeps the Score",
+      "author": "Bessel van der Kolk",
+      "category": "Psychology",
+      "total_copies": 4,
+      "available_copies": 4
+    },
+    {
+      "id": "B0029",
+      "title": "Factfulness",
+      "author": "Hans Rosling",
+      "category": "Science",
+      "total_copies": 2,
+      "available_copies": 2
+    },
+    {
+      "id": "B0030",
+      "title": "The Little Prince",
+      "author": "Antoine de Saint-Exupery",
+      "category": "Classics",
+      "total_copies": 2,
+      "available_copies": 2
+    }
+  ],
+  "members": [
+    {
+      "id": "M0001",
+      "name": "Aarav Sharma",
+      "email": "aarav.sharma@example.edu",
+      "joined_on": "2026-10-24"
+    },
+    {
+      "id": "M0002",
+      "name": "Maya Patel",
+      "email": "maya.patel@example.edu",
+      "joined_on": "2026-09-24"
+    },
+    {
+      "id": "M0003",
+      "name": "Ethan Wilson",
+      "email": "ethan.wilson@example.edu",
+      "joined_on": "2026-08-25"
+    },
+    {
+      "id": "M0004",
+      "name": "Sofia Garcia",
+      "email": "sofia.garcia@example.edu",
+      "joined_on": "2026-07-26"
+    },
+    {
+      "id": "M0005",
+      "name": "Noah Kim",
+      "email": "noah.kim@example.edu",
+      "joined_on": "2026-06-26"
+    },
+    {
+      "id": "M0006",
+      "name": "Aisha Khan",
+      "email": "aisha.khan@example.edu",
+      "joined_on": "2026-05-27"
+    },
+    {
+      "id": "M0007",
+      "name": "Liam Chen",
+      "email": "liam.chen@example.edu",
+      "joined_on": "2026-04-27"
+    },
+    {
+      "id": "M0008",
+      "name": "Priya Nair",
+      "email": "priya.nair@example.edu",
+      "joined_on": "2026-03-28"
+    },
+    {
+      "id": "M0009",
+      "name": "Oliver Brown",
+      "email": "oliver.brown@example.edu",
+      "joined_on": "2026-02-26"
+    },
+    {
+      "id": "M0010",
+      "name": "Zara Ahmed",
+      "email": "zara.ahmed@example.edu",
+      "joined_on": "2026-01-27"
+    }
+  ],
+  "loans": [
+    {
+      "id": "L0001",
+      "book_id": "B0001",
+      "member_id": "M0001",
+      "issue_date": "2026-10-30",
+      "due_date": "2026-11-13",
+      "return_date": null
+    },
+    {
+      "id": "L0002",
+      "book_id": "B0002",
+      "member_id": "M0002",
+      "issue_date": "2026-11-15",
+      "due_date": "2026-11-29",
+      "return_date": null
+    },
+    {
+      "id": "L0003",
+      "book_id": "B0003",
+      "member_id": "M0003",
+      "issue_date": "2026-11-08",
+      "due_date": "2026-11-22",
+      "return_date": null
+    },
+    {
+      "id": "L0004",
+      "book_id": "B0004",
+      "member_id": "M0004",
+      "issue_date": "2026-11-03",
+      "due_date": "2026-11-17",
+      "return_date": null
+    },
+    {
+      "id": "L0005",
+      "book_id": "B0005",
+      "member_id": "M0005",
+      "issue_date": "2026-10-19",
+      "due_date": "2026-11-02",
+      "return_date": "2026-11-18"
+    }
+  ]
+}

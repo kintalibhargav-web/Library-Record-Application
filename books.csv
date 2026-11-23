@@ -1,0 +1,31 @@
+id,title,author,category,total_copies,available_copies
+B0001,The Hobbit,J.R.R. Tolkien,Fantasy,4,3
+B0002,Pride and Prejudice,Jane Austen,Fiction,2,1
+B0003,1984,George Orwell,Fiction,2,1
+B0004,To Kill a Mockingbird,Harper Lee,Fiction,4,3
+B0005,The Great Gatsby,F. Scott Fitzgerald,Fiction,2,2
+B0006,A Brief History of Time,Stephen Hawking,Science,2,2
+B0007,The Selfish Gene,Richard Dawkins,Science,4,4
+B0008,Cosmos,Carl Sagan,Science,2,2
+B0009,Clean Code,Robert C. Martin,Technology,2,2
+B0010,The Pragmatic Programmer,David Thomas,Technology,4,4
+B0011,Introduction to Algorithms,Thomas H. Cormen,Technology,2,2
+B0012,Python Crash Course,Eric Matthes,Technology,2,2
+B0013,The Design of Everyday Things,Don Norman,Design,4,4
+B0014,Sapiens,Yuval Noah Harari,History,2,2
+B0015,"Guns, Germs, and Steel",Jared Diamond,History,2,2
+B0016,The Diary of a Young Girl,Anne Frank,History,4,4
+B0017,The Alchemist,Paulo Coelho,Fiction,2,2
+B0018,The Book Thief,Markus Zusak,Fiction,2,2
+B0019,Little Women,Louisa May Alcott,Fiction,4,4
+B0020,The Odyssey,Homer,Classics,2,2
+B0021,Meditations,Marcus Aurelius,Philosophy,2,2
+B0022,The Republic,Plato,Philosophy,4,4
+B0023,"Thinking, Fast and Slow",Daniel Kahneman,Psychology,2,2
+B0024,Man's Search for Meaning,Viktor E. Frankl,Psychology,2,2
+B0025,The Art of War,Sun Tzu,Philosophy,4,4
+B0026,The Elements of Style,William Strunk Jr.,Writing,2,2
+B0027,On Writing,Stephen King,Writing,2,2
+B0028,The Body Keeps the Score,Bessel van der Kolk,Psychology,4,4
+B0029,Factfulness,Hans Rosling,Science,2,2
+B0030,The Little Prince,Antoine de Saint-Exupery,Classics,2,2
